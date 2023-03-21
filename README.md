@@ -15,7 +15,7 @@ An android app which can assist farmers buy basic machineries ,tools and look fo
 The app is broadly divided into three parts:
 1. A complete e-commerce application for the farmers which will assist them to buy agricultural products and rent servies according to their needs.
 
-2. Provides general awareness about the crop , their fertilizers , seasons , crop rotation patterns and other basic requirements, our in-house developed recommendation and prediction helps in making forecasts and suggestions againt various parameters.
+2. Provides general awareness about the crop , their fertilizers , seasons , crop rotation patterns and other basic requirements, our in-house developed content based recommendation system and prediction helps in making forecasts and suggestions againt various parameters.
 
 3. Helps non residents to find customers to lease their lands. Hence acts as a mediator between them.
 
