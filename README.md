@@ -1,16 +1,18 @@
 # Agri.Connect
 
-A new Flutter project.
+Agri.Connect is a app based platform with an aim to cater the needs of farmer.
 
-## Getting Started
+The app is broadly divided into three parts:
+1. A complete e-commerce application for the farmers which will assist them to buy agricultural products and rent servies according to their needs.
 
-This project is a starting point for a Flutter application.
+2. Provides general awareness about the crop , their fertilizers , seasons , crop rotation patterns and other basic requirements, our in-house developed recommendation and prediction helps in making forecasts and suggestions againt various parameters.
 
-A few resources to get you started if this is your first Flutter project:
+3. Helps non residents to find customers to lease their lands. Hence acts as a mediator between them.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Tech-Stack Used:
+1. Flutter.
+2. Firebase and Cloud Firestore for backend service.
+3. Scikit-learn library for machine learning in python.
+4. Natural Language Processing.
+
