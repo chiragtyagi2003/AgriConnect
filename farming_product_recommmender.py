@@ -90,9 +90,9 @@ def get_recommendations():
 if __name__ == '__main__':
     app.run()
 
-#recommended_products = get_recommendations(product_id)
-#print(f"Recommended products for {df_products.iloc[product_id]['Tool']}:")
-#print(recommended_products)
+recommended_products = get_recommendations(product_id)
+print(f"Recommended products for {df_products.iloc[product_id]['Tool']}:")
+print(recommended_products)
 
 
 # In[ ]:
