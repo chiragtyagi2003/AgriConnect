@@ -1,4 +1,4 @@
-# agriconnect
+# Agri.Connect
 
 A new Flutter project.
 
